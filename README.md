@@ -5,10 +5,15 @@
 
 
 # Modules of Python Used :-
+
  requests   =   To make HTTP Request from python to website
+ 
  platform [ platform() ]    =   to retrieve information about the platform on which the program is being currently executed
+ 
  time [ sleep() ]   =   used for transition effect in execution to look more interective
+ 
  os [ system(delet) ]    =   to clear the previous CMD screen/ to totally blank the screen
+ 
  re   =   to make store the retrieved data in a specified manner using Regular expression. 
  
 
