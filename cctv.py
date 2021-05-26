@@ -1,4 +1,4 @@
-#673 lines (585 sloc)  22.7 KB
+#554 lines of Code
 
 import requests,re,os
 import time
@@ -182,7 +182,9 @@ os.system(delet)
 
 time.sleep(2)
 os.system(delet)
-print("Welcome to camera-hack!")
+print("\n\t\t\t\tWelcome to CCTV Web-Hack !")
+print("\t-: Ready to deep dive in World's Biggest Directory of Live Surveillance Cameras :-")
+print("="*100)
 print("Please select country for hack :")
 print("""
 1. Russian Federation                        
@@ -203,12 +205,10 @@ print("""
 
 ----Project by Team----
 < Tushar , Vishnu , Rahul />
-------Version 1.0------                      
 """)
 num = int(input("country : "))
 if num == 1:
-        print("\n")		
-        os.system(delet)
+        print("\n")
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
             for page in range (0,82):
@@ -552,12 +552,3 @@ if num == 15:
                      count += 1
         except:
             print (" ")
-
-"""
-https://www.insecam.org/
-
-http://192.135.76.230:80    [ ok ]
-http://66.219.14.74:80  [ ok ]
-http://66.219.14.74:50000   [ ok ]
-
-"""
