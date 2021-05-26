@@ -1,7 +1,7 @@
 # CCTV_access_python-web-access-
 
 
-# in this i have done a very good use of graphical presentation, Banner, then choice of user, and then fetching IP Addresses of CCTV cameras from world biggest directory of online surveillance security cameras. [ www.insecam.com ]
+# In this i have done a very good use of graphical presentation, Banner, then choice of user, and then fetching IP Addresses of CCTV cameras from world biggest directory of online surveillance security cameras [ www.insecam.com ] using python language & it's various Modules/Packages.
 
 
 # Modules of Python Used :-
@@ -32,14 +32,14 @@
  # Phase 4 :
             Version info will be displayed for 3 seconds
  # Phase 5 :
-            A samll welcome text will be there.
-            and there is choices of 15 country which user will select according to number prescirbed there.
+            A small welcome text will be there.
+            and there is choices of 15 country which user will select according to number prescribed there.
  # Phase 6 :
             now from here, the real execution starts.
             The pair [ IP:PORT ] is printed on CMD of available CCTV Cameras and along with these data will automatically store in a 'log.txt'.
  # Phase 7 :
             Here you have got all [ IP:PORT ] pairs and 
-            now your final task to access a live CCTV Camera is to copy any [ IP:HOST ] pair and paste in browser ( Mozila preffered )
+            now your final task to access a live CCTV Camera and for this copy any [ IP:HOST ] pair and paste in browser ( Mozilla Firefox preffered )
             and you will get the access to live CCTV only if there is no password set by owner although there are varioud camera which are password less and can be access.
 
 
