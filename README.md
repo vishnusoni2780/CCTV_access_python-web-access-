@@ -1,7 +1,7 @@
 # CCTV_access_python-web-access-
 
 
-# In this i have done a very good use of graphical presentation, Banner, then choice of user, and then fetching IP Addresses of CCTV cameras from world biggest directory of online surveillance security cameras [ www.insecam.com ] using python language & it's various Modules/Packages.
+In this i have done a very good use of graphical presentation, Banner, then choice of user, and then fetching IP Addresses of CCTV cameras from world biggest directory of online surveillance security cameras [ www.insecam.com ] using python language & it's various Modules/Packages.
 
 
 # Modules of Python Used :-
